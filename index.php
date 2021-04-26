@@ -69,5 +69,9 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <?php endforeach; ?>
                 <?php endif; ?>
         </table>
+        <br>
+        <br>
+        <br>
+        Ovo je dodao predavač za provjeru implementacije i konfiguracije CI/CD dijela ispita.
     </body>
 </html>
